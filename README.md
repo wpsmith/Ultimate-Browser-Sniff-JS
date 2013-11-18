@@ -1,0 +1,2 @@
+Ultimate-Browser-Sniff-JS
+=========================
